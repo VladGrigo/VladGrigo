@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VladGrigo
 - 👀 I’m interested in Data Science, AI and Machine Learning
 - 🌱 I’m currently learning Computer Vision 
-- 💞️ I’m looking to collaborate on AI projects 
+- 💞️ I’m looking to collaborate on AI, Data analysis and Business Intelligence projects 
 - 📫 How to reach me. By mail: vladgregorieu@gmail.com
 
 <!---
